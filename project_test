@@ -1,7 +1,7 @@
 import json
 import requests
 
-cl_id = M57rYAYw8INUrZLNb9oCrQBvd2ZvZqHb
-cl_sec = ItWQLWZLM0NE6Lp1
+cl_id = 'kzseY3XfckMQUJfv66tBc1iU1Cgiol8A'
+cl_sec = 'rVsf9ar8u38Arn84'
 
 endpoint_url = 'https://api.dexcom.com/v2/users/self/egvs'
